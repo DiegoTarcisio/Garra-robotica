@@ -52,34 +52,34 @@
           <sub><b>Diego T.</b></sub>
         </a>
         <br/>
-        <sub>💻 Software & Firmware</sub>
+        <sub>⚡ Líder de Projeto</sub>
         <br/>
         <a href="https://github.com/DiegoTarcisio"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
         <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
       </td>
       <td align="center" width="220px">
         <!-- ThainanST -->
-        <a href="https://github.com/usuario-ElianJair">
+        <a href="https://github.com/ElianJair">
           <img src="https://via.placeholder.com/150" width="110px;" alt="Foto ThainanST" style="border-radius:50%;"/><br>
           <sub><b>Nome do ThainanST</b></sub>
         </a>
         <br/>
-        <sub>⚡ Eletrônica & Circuitos</sub>
+        <sub>💻 Colíder de Projeto</sub>
         <br/>
-        <a href="https://github.com/usuario-ElianJair"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/ElianJair"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
         <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
       </td>
       <td align="center" width="220px">
         <!-- ThainanST -->
-        <a href="https://github.com/usuario-ThainanST">
+        <a href="https://github.com/ThainanST">
           <img src="https://via.placeholder.com/150" width="110px;" alt="Foto ThainanST" style="border-radius:50%;"/><br>
-          <sub><b>Nome do ThainanST</b></sub>
+          <sub><b>ThainanST</b></sub>
         </a>
         <br/>
-        <sub>📐 Modelagem 3D & Mecânica</sub>
+        <sub>🧠 Orientador</sub>
         <br/>
-        <a href="https://github.com/usuario-ThainanST"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="https://github.com/ThainanST"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://linkedin.com/in/thainantheodoro"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
       </td>
     </tr>
   </table>
