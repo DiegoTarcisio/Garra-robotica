@@ -117,7 +117,7 @@
   | Item | Componente | Quantidade | Descrição |
   | :--: | :--------- | :--------: | :-------- |
   | 1 | Microcontrolador Arduino Uno / Nano | 1 | Cérebro lógico do sistema |
-  | 2 | Servomotor (ex: MG996R / SG90) | 3 a 4 | Controle angular das articulações e garra |
+  | 2 | Servomotor (ex: MG996R / SG90) | 4 | Controle angular das articulações e garra |
   | 3 | Módulo Joystick analógico / Potenciômetros | 2 | Interface manual de acionamento |
   | 4 | Fonte de Alimentação Externa 5V/6V | 1 | Alimentação dedicada aos motores |
   | 5 | Estrutura mecânica impressa em 3D | 1 kit | Braços, engrenagens e pontas de fixação |
