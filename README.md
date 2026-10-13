@@ -125,14 +125,10 @@
 
 <details>
   <summary><b>🔌 Esquema de Ligação & Pinagem</b></summary><br/>
+  
+ <details open> 
+ (Arquivo Proteus, img Esquematico)
 
-  ```text
-  [Arduino 5V / GND] ----> Linha Lógica
-  [Fonte Externa 5V] ----> Barramento VCC dos Servomotores
-  [GND Comum]       ----> Unir GND da Fonte Externa ao GND do Arduino
-
-  Pin D9  ----> Sinal PWM: Servo Base
-  Pin D10 ----> Sinal PWM: Servo Braço (Elevação)
-  Pin D11 ----> Sinal PWM: Servo Garra (Abertura/Fechamento)
-  Pin A0  ----> Eixo X Joystick
-  Pin A1  ----> Eixo Y Joystick
+ 
+   
+</details>
