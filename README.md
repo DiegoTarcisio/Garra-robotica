@@ -55,13 +55,13 @@
         <sub>⚡ Líder de Projeto</sub>
         <br/>
         <a href="https://github.com/DiegoTarcisio"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="https://linkedin.com/in/diego-tarcisio"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
       </td>
       <td align="center" width="220px">
         <!-- ThainanST -->
         <a href="https://github.com/ElianJair">
-          <img src="https://via.placeholder.com/150" width="110px;" alt="Foto ThainanST" style="border-radius:50%;"/><br>
-          <sub><b>Nome do ThainanST</b></sub>
+          <img src="https://github.com/ElianJair.png" width="110px;" alt="Foto ThainanST" style="border-radius:50%;"/><br>
+          <sub><b>Elian J</b></sub>
         </a>
         <br/>
         <sub>💻 Colíder de Projeto</sub>
@@ -72,7 +72,7 @@
       <td align="center" width="220px">
         <!-- ThainanST -->
         <a href="https://github.com/ThainanST">
-          <img src="https://via.placeholder.com/150" width="110px;" alt="Foto ThainanST" style="border-radius:50%;"/><br>
+          <img src="https://github.com/ThainanST.png" width="110px;" alt="Foto ThainanST" style="border-radius:50%;"/><br>
           <sub><b>ThainanST</b></sub>
         </a>
         <br/>
