@@ -46,39 +46,39 @@
     <tr>
       <td align="center" width="220px">
         <!-- Integrante 1 -->
-        <a href="https://github.com/diefods0">
+        <a href="https://github.com/DiegoTarcisio">
           <!-- Você pode usar o avatar do GitHub: https://github.com/<usuario>.png -->
-          <img src="https://github.com/diefods0.png" width="110px;" alt="Foto Diego" style="border-radius:50%;"/><br>
+          <img src="https://github.com/DiegoTarcisio.png" width="110px;" alt="Foto Diego" style="border-radius:50%;"/><br>
           <sub><b>Diego T.</b></sub>
         </a>
         <br/>
         <sub>💻 Software & Firmware</sub>
         <br/>
-        <a href="https://github.com/diefods0"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/DiegoTarcisio"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
         <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
       </td>
       <td align="center" width="220px">
-        <!-- Integrante 2 -->
-        <a href="https://github.com/usuario-integrante2">
-          <img src="https://via.placeholder.com/150" width="110px;" alt="Foto Integrante 2" style="border-radius:50%;"/><br>
-          <sub><b>Nome do Integrante 2</b></sub>
+        <!-- ThainanST -->
+        <a href="https://github.com/usuario-ElianJair">
+          <img src="https://via.placeholder.com/150" width="110px;" alt="Foto ThainanST" style="border-radius:50%;"/><br>
+          <sub><b>Nome do ThainanST</b></sub>
         </a>
         <br/>
         <sub>⚡ Eletrônica & Circuitos</sub>
         <br/>
-        <a href="https://github.com/usuario-integrante2"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/usuario-ElianJair"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
         <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
       </td>
       <td align="center" width="220px">
-        <!-- Integrante 3 -->
-        <a href="https://github.com/usuario-integrante3">
-          <img src="https://via.placeholder.com/150" width="110px;" alt="Foto Integrante 3" style="border-radius:50%;"/><br>
-          <sub><b>Nome do Integrante 3</b></sub>
+        <!-- ThainanST -->
+        <a href="https://github.com/usuario-ThainanST">
+          <img src="https://via.placeholder.com/150" width="110px;" alt="Foto ThainanST" style="border-radius:50%;"/><br>
+          <sub><b>Nome do ThainanST</b></sub>
         </a>
         <br/>
         <sub>📐 Modelagem 3D & Mecânica</sub>
         <br/>
-        <a href="https://github.com/usuario-integrante3"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/usuario-ThainanST"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
         <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
       </td>
     </tr>
