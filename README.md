@@ -20,7 +20,7 @@
 <br/>
 
 <details open>
-  <summary><h2>🤖 Sobre o Projeto</h2></summary>
+  <summary><b>🤖 Sobre o Projeto</b></summary><br/>
   
   <p align="justify">
     Este projeto consiste no desenvolvimento e implementação de uma <b>Garra Robótica</b> articulada, projetada para manipulação e preensão de objetos com precisão. O sistema integra projeto mecânico (peças impressas em 3D), circuitos eletrônicos de potência e controle de servomotores programados em C++/Arduino.
@@ -36,7 +36,7 @@
 </details>
 
 <details open> 
-  <summary><h2>👥 Integrantes do Projeto</h2></summary>
+  <summary><b>👥 Integrantes do Projeto</b></summary><br/>
 
   <p align="center">
     Equipe responsável pelo desenvolvimento de hardware, software e documentação da garra robótica:
@@ -86,7 +86,7 @@
 </details>
 
 <details open> 
-  <summary><h2>🛠️ Tecnologias e Ferramentas</h2></summary>
+  <summary><b>🛠️ Tecnologias e Ferramentas</b></summary><br/>
 
   <h3>⚡ Microcontroladores e Eletrônica</h3>
   <p>
@@ -112,7 +112,7 @@
 </details>
 
 <details open>
-  <summary><h2>⚙️ Componentes de Hardware</h2></summary>
+  <summary><b>⚙️ Componentes de Hardware</b></summary><br/>
 
   | Item | Componente | Quantidade | Descrição |
   | :--: | :--------- | :--------: | :-------- |
@@ -124,7 +124,7 @@
 </details>
 
 <details>
-  <summary><h2>🔌 Esquema de Ligação & Pinagem</h2></summary>
+  <summary><b>🔌 Esquema de Ligação & Pinagem</b></summary><br/>
 
   ```text
   [Arduino 5V / GND] ----> Linha Lógica
