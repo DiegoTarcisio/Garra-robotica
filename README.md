@@ -13,7 +13,7 @@
 <!-- Badges de status do repositório -->
 <p align="center">
   <img alt="Repo Status" src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-success?style=for-the-badge&logo=git&logoColor=white&color=238636"/>
-  <img alt="Licença" src="https://img.shields.io/badge/Licen%C3%A7a-MIT-blue?style=for-the-badge"/>
+  <img alt="Licença" src="https://img.shields.io/badge/Licen%C3%A7a-UFOP-blue?style=for-the-badge"/>
   <img alt="Plataforma" src="https://img.shields.io/badge/Hardware-Arduino%20%2F%20ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
