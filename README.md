@@ -125,10 +125,4 @@
 
 <details>
   <summary><b>🔌 Esquema de Ligação & Pinagem</b></summary><br/>
-  
- <details open> 
- (Arquivo Proteus, img Esquematico)
-
- 
-   
-</details>
+ (img Esquematico Proteus)
